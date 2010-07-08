@@ -10,23 +10,19 @@ This software is written using Rails 3 Beta 4 and Ruby 1.9.1. We highly recommen
 
 If you don't have Rails 3 installed you'll need to install rails first:
 
-<code>
+<pre><code>
   gem install bundler
-  
   gem install rails --pre
-</code>
+</code></pre>
 
 Afterwards:
 
-<code>
+<pre><code>
   git clone git://github.com/m3talsmith/time-bank.git
-  
   cd time-bank
-  
   cp config/database.yml.example config/database.yml
-  
   bundle install
-</code>
+</code></pre>
 
 You'll want to use
 
