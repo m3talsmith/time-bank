@@ -33,3 +33,5 @@ group :test do
   gem 'launchy'
   gem 'factory_girl'
 end
+
+gem 'rails3-generators', :group => :development
