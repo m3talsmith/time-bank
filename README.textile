@@ -20,6 +20,7 @@ Afterwards:
 <code>
   git clone git://github.com/m3talsmith/time-bank.git
   cd time-bank
+  cp config/database.yml.example config/database.yml
   bundle install
 </code>
 
