@@ -1,12 +1,12 @@
 h1. Summary
 
-This software is being created out of a desire to free the Time Dollar idea from the small minds that currently charge for their management software and "training". We believe that ideas that are geared towards economic freedom should be open for the people to use and develop as they will.
+This software is being created out of a desire to free the Time Dollar idea "from the minds":http://www.timebanks.org/ that currently charge for their management software and "training". We believe that ideas that are geared towards economic freedom should be open for the people to use and develop as they will.
 
-We are currently in the planning stages of this software. You can [view our website](http://timebank.heroku.com) to see it's progress. Any donations are welcome; wether in code or in beer money.
+We are currently in the planning stages of this software. You can "view our website":http://timebank.heroku.com to see it's progress. Any donations are welcome; wether in code or in beer money.
 
 h1. Installation
 
-This software is written using Rails 3 Beta 4 and Ruby 1.9.1. We highly recommend that you use RVM as a ruby manager. In other words, this is very cutting edge and takes a good amount of technical knowledge to fix problems if they occur. That said it's very simple to get this going.
+This software is written using Rails 3 Beta 4 and Ruby 1.9.1. We highly recommend that you "use RVM as a ruby manager":http://rvm.beginrescueend.com/ . In other words, this is very cutting edge and takes a good amount of technical knowledge to fix problems if they occur. That said it's very simple to get this going.
 
 If you don't have Rails 3 installed you'll need to install rails first:
 
@@ -23,6 +23,12 @@ Afterwards:
   bundle install
 </code>
 
-You'll want to use "rails s" to get a local server going if you are not using passenger or some other means of serving projects.
+You'll want to use
+
+<code>
+  rails s
+</code>
+
+to get a local server going if you are not "using passenger":http://www.modrails.com/ or some other means of serving projects.
 
 Enjoy!
